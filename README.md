@@ -1,6 +1,6 @@
 # Build A Restaurant Menu
 
-A Codecademy project to design a database schema and perform tasks like:
+A [Codecademy](https://www.codecademy.com/) project to design a database schema and perform tasks like:
 
 - create tables
 - define relationships between tables
